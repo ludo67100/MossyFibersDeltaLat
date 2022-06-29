@@ -17,4 +17,6 @@ Open source
 -- MosaicDataSet_LatencyMeasuresCleaned.xlsx; 
 -- MossyFibersSpikeLatencies.xlsx
   
-- At the begining of each script, set the ```mainDir``` path as the path containing the processed data on your machine 
+ ## Run the code
+ Open the scripts in Spyder. Each script will generate panels mentionned in the name. 
+ At the begining of each script, set the ```mainDir``` path as the path containing the processed data on your machine 
