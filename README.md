@@ -19,4 +19,4 @@ Open source
   
  ## Run the code
  Open the scripts in Spyder. Each script will generate panels mentionned in the name. 
- At the begining of each script, set the ```mainDir``` path as the path containing the processed data on your machine 
+ At the begining of each script, set the ```mainDir``` path as the path containing the processed data on your machine. Plots and statistics will be displayed in the console. Set the ```saveDir``` path to the location where you would like to save the generated plots and tables. 
