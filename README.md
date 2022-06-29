@@ -1,5 +1,5 @@
 # MossyFibersDeltaLat
-Repository for code used in analysis from Binda, Spaeth, Kumar &amp; Isope
+Repository for code used in data analysis from Binda, Spaeth, Kumar &amp; Isope
 
 ## License 
 Open source 
