@@ -9,9 +9,8 @@ Open source
 
 2. Install electropPyy package in your environement https://github.com/ludo67100/electroPyy
 
-
-Add description
-GC_ElecStim_DeltaLat.xlsx
-InhibitionOnlyAllDatasets.xlsx
-FluoViewDataSet_LatencyMeasuresCleaned.xlsx
-MosaicDataSet_LatencyMeasuresCleaned.xlsx
+3. Processed data (excel sheets): 
+  GC_ElecStim_DeltaLat.xlsx
+  InhibitionOnlyAllDatasets.xlsx
+  FluoViewDataSet_LatencyMeasuresCleaned.xlsx
+  MosaicDataSet_LatencyMeasuresCleaned.xlsx
