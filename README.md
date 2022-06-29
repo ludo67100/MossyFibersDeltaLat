@@ -10,7 +10,9 @@ Open source
 2. Install electropPyy package in your environement https://github.com/ludo67100/electroPyy
 
 3. Processed data (excel sheets): 
-  GC_ElecStim_DeltaLat.xlsx
-  InhibitionOnlyAllDatasets.xlsx
-  FluoViewDataSet_LatencyMeasuresCleaned.xlsx
+  GC_ElecStim_DeltaLat.xlsx; 
+  InhibitionOnlyAllDatasets.xlsx; 
+  FluoViewDataSet_LatencyMeasuresCleaned.xlsx; 
   MosaicDataSet_LatencyMeasuresCleaned.xlsx
+  
+ 4. At the begining of each script, set the mainDir path as the path containing the processed data on your machine 
