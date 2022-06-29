@@ -7,7 +7,7 @@ Open source
 ## What you need
 - *A Python IDE* (Spyder is recommended, available in Anaconda https://www.anaconda.com/ or WinPython https://sourceforge.net/projects/winpython/ distributions)  
 
-- Install ```electropPyy``` package in your environement https://github.com/ludo67100/electroPyy ```pip install git+https://github.com/ludo67100/electroPyy.git```
+- Install ```electropPyy``` package in your environement https://github.com/ludo67100/electroPyy           ```pip install git+https://github.com/ludo67100/electroPyy.git```
 
 3. Processed data (excel sheets): 
   GC_ElecStim_DeltaLat.xlsx; 
