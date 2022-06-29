@@ -13,6 +13,7 @@ Open source
   GC_ElecStim_DeltaLat.xlsx; 
   InhibitionOnlyAllDatasets.xlsx; 
   FluoViewDataSet_LatencyMeasuresCleaned.xlsx; 
-  MosaicDataSet_LatencyMeasuresCleaned.xlsx
+  MosaicDataSet_LatencyMeasuresCleaned.xlsx; 
+  MossyFibersSpikeLatencies.xlsx
   
  4. At the begining of each script, set the mainDir path as the path containing the processed data on your machine 
